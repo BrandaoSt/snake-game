@@ -23,7 +23,7 @@ function createBG() {
     context.fillStyle = "lightgreen";
     context.fillRect(0, 0, 16 * box, 16 * box);
 }
-
+git 
 // Função para criar a cobra
 function createSnake() {
     for (i = 0; i < snake.length; i++) {
